@@ -1,0 +1,50 @@
+SampleID,Strain,Induction,Drug,Replicate
+EmptyVector_ATC_NoDrug_1_S43,EV,Induced,2.2 ng/mL RIF,1
+EmptyVector_ATC_NoDrug_2_S44,EV,Induced,2.2 ng/mL RIF,2
+EmptyVector_ATC_NoDrug_3_S45,EV,Induced,2.2 ng/mL RIF,3
+EmptyVector_ATC_RIF_1_S46,EV,Induced,No drug,1
+EmptyVector_ATC_RIF_2_S47,EV,Induced,No drug,2
+EmptyVector_ATC_RIF_3_S48,EV,Induced,No drug,3
+EmptyVector_DMSO_NoDrug_1_S37,EV,Uninduced,2.2 ng/mL RIF,1
+EmptyVector_DMSO_NoDrug_2_S38,EV,Uninduced,2.2 ng/mL RIF,2
+EmptyVector_DMSO_NoDrug_3_S39,EV,Uninduced,2.2 ng/mL RIF,3
+EmptyVector_DMSO_RIF_1_S40,EV,Uninduced,No drug,1
+EmptyVector_DMSO_RIF_2_S41,EV,Uninduced,No drug,2
+EmptyVector_DMSO_RIF_3_S42,EV,Uninduced,No drug,3
+Rv0494_ATC_NoDrug_1_S7,Rv0494,Induced,2.2 ng/mL RIF,1
+Rv0494_ATC_NoDrug_2_S8,Rv0494,Induced,2.2 ng/mL RIF,2
+Rv0494_ATC_NoDrug_3_S9,Rv0494,Induced,2.2 ng/mL RIF,3
+Rv0494_ATC_RIF_1_S10,Rv0494,Induced,No drug,1
+Rv0494_ATC_RIF_2_S11,Rv0494,Induced,No drug,2
+Rv0494_ATC_RIF_3_S12,Rv0494,Induced,No drug,3
+Rv0494_DMSO_NoDrug_1_S1,Rv0494,Uninduced,2.2 ng/mL RIF,1
+Rv0494_DMSO_NoDrug_2_S2,Rv0494,Uninduced,2.2 ng/mL RIF,2
+Rv0494_DMSO_NoDrug_3_S3,Rv0494,Uninduced,2.2 ng/mL RIF,3
+Rv0494_DMSO_RIF_1_S4,Rv0494,Uninduced,No drug,1
+Rv0494_DMSO_RIF_2_S5,Rv0494,Uninduced,No drug,2
+Rv0494_DMSO_RIF_3_S6,Rv0494,Uninduced,No drug,3
+Rv0827c_ATC_NoDrug_1_S31,Rv0827c,Induced,2.2 ng/mL RIF,1
+Rv0827c_ATC_NoDrug_2_S32,Rv0827c,Induced,2.2 ng/mL RIF,2
+Rv0827c_ATC_NoDrug_3_S33,Rv0827c,Induced,2.2 ng/mL RIF,3
+Rv0827c_ATC_RIF_1_S34,Rv0827c,Induced,No drug,1
+Rv0827c_ATC_RIF_2_S35,Rv0827c,Induced,No drug,2
+Rv0827c_ATC_RIF_3_S36,Rv0827c,Induced,No drug,3
+Rv0827c_DMSO_NoDrug_1_S25,Rv0827c,Uninduced,2.2 ng/mL RIF,1
+Rv0827c_DMSO_NoDrug_2_S26,Rv0827c,Uninduced,2.2 ng/mL RIF,2
+Rv0827c_DMSO_NoDrug_3_S27,Rv0827c,Uninduced,2.2 ng/mL RIF,3
+Rv0827c_DMSO_RIF_1_S28,Rv0827c,Uninduced,No drug,1
+Rv0827c_DMSO_RIF_2_S29,Rv0827c,Uninduced,No drug,2
+Rv0827c_DMSO_RIF_3_S30,Rv0827c,Uninduced,No drug,3
+Rv1473A_ATC_NoDrug_1_S19,Rv1473A,Induced,2.2 ng/mL RIF,1
+Rv1473A_ATC_NoDrug_2_S20,Rv1473A,Induced,2.2 ng/mL RIF,2
+Rv1473A_ATC_NoDrug_3_S21,Rv1473A,Induced,2.2 ng/mL RIF,3
+Rv1473A_ATC_RIF_1_S22,Rv1473A,Induced,No drug,1
+Rv1473A_ATC_RIF_2_S23,Rv1473A,Induced,No drug,2
+Rv1473A_ATC_RIF_3_S24,Rv1473A,Induced,No drug,3
+Rv1473A_DMSO_NoDrug_1_S13,Rv1473A,Uninduced,2.2 ng/mL RIF,1
+Rv1473A_DMSO_NoDrug_2_S14,Rv1473A,Uninduced,2.2 ng/mL RIF,2
+Rv1473A_DMSO_NoDrug_3_S15,Rv1473A,Uninduced,2.2 ng/mL RIF,3
+Rv1473A_DMSO_RIF_1_S16,Rv1473A,Uninduced,No drug,1
+Rv1473A_DMSO_RIF_2_S17,Rv1473A,Uninduced,No drug,2
+Rv1473A_DMSO_RIF_3_S18,Rv1473A,Uninduced,No drug,3
+Undetermined_S0,NA,NA,NA,NA
